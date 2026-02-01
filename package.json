@@ -1,0 +1,24 @@
+{
+  "name": "clawdbot-autorestart",
+  "version": "1.0.0",
+  "description": "Keep Clawdbot gateway running 24/7 with PM2 auto-restart and boot startup",
+  "author": "Matt Morales",
+  "license": "MIT",
+  "keywords": [
+    "clawdbot",
+    "moltbot",
+    "pm2",
+    "auto-restart",
+    "daemon",
+    "24/7",
+    "process-manager"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mpmmo/clawdbot-autorestart"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts/"
+  ]
+}
